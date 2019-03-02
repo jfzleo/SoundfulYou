@@ -28,7 +28,7 @@
     "list": [
       {
         "pagePath": "miniprogram/pages/index",
-        "iconPath"
+        "iconPath": "miniprogram/images/Eat.jpg"
       }
     ]
   }
