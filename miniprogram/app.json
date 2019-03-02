@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/Eat/Eat",
+    "pages/TodayEat/TodatEat",
+    "pages/Unknown1/Unknown1",
+    "pages/Unknown2/Unknown2",
+    "pages/TodayEat/TodayEat",
+    "pages/ZiJinGang/ZiJinGang",
+    "pages/YuQuan/YuQuan",
+    "pages/XiXi/XiXi",
+    "pages/HuaJiaChi/HuaJiaChi",
+    "pages/XiuXian/XiuXian",
+    "pages/FengWei/FengWei",
+    "pages/index/index",
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "miniprogram/pages/index",
+        "iconPath"
+      }
+    ]
+  }
+}
